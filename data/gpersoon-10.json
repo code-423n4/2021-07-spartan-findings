@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "0",
+  "title": "(out of scope) mintFromDAO of Sparta.sol can go over max supply",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/10"
+}
