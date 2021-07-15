@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "vailidity checks in setParams ",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/9"
+}
