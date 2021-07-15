@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "can keep the DAO voting system hostage",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/13"
+}
