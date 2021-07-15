@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "Sparta",
+  "address": "0x5c8351c52162fbbe4c5688b34390ad3765d7e9ca",
+  "risk": "3",
+  "title": "error_reporting = E_ALL & ~E_DEPRECATED",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/18"
+}
