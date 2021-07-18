@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "hickuphh3",
+  "address": "0xD5388291EAbe96b56069440C97046791E2F72573",
+  "risk": "1",
+  "title": "Dao.sol: Reserve emissions must be turned on for depositLPs and bonds",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/44"
+}
