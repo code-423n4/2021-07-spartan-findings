@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "hrkrshnn",
+  "address": "0x58993cFa67cD6151EC3D806AE93a7Ed365dB2f88",
+  "risk": "G",
+  "title": "Use unchecked blocks in some cases to save gas.",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/74"
+}
