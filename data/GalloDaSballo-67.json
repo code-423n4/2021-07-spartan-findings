@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "3",
+  "title": "addForMember _mints to member but removeForMember _burns to address(this)",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/67"
+}
