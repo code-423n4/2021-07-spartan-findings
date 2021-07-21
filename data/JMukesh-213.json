@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "1",
+  "title": "lack of zero address validation for recipent in _transfer() of pool.sol, synth.sol",
+  "issueId": 213,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/213"
+}
