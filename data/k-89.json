@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "k",
+  "address": "0x34c38f6d62db32f368ad66f5a686c9b8bbef7141",
+  "risk": "2",
+  "title": "Unvalidated `transfer` and `transferFrom` Return Values",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/89"
+}
