@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Missing onlyPool modifier for burnSynth()",
+  "issueId": 139,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/139"
+}
