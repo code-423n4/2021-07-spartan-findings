@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Duplicated functionality in two functions is a maintainability risk",
+  "issueId": 125,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/125"
+}
