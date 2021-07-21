@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Missing check for token type/decimals in createPool",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/136"
+}
