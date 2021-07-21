@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xsanson",
+  "address": "0x4DF37CC3C48eC3EB689c8Bf0D91249cE2506f73B",
+  "risk": "1",
+  "title": "Mismatch in event definition",
+  "issueId": 210,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/210"
+}
