@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Critical protocol parameter changes should emit events",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/90"
+}
