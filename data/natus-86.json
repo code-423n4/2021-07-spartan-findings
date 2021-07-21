@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "natus",
+  "address": "0x8885b44032Cba8813e870dA237f0598D6C822424",
+  "risk": "G",
+  "title": "ROUTER.addTradeFee()",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/86"
+}
