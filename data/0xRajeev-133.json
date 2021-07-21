@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Members lose SPARTA tokens in removeLiquiditySingle()",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/133"
+}
