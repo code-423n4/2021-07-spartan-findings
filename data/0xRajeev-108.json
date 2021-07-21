@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Unused threshold function indicates missing logic or dead code",
+  "issueId": 108,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/108"
+}
