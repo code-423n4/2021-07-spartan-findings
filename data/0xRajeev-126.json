@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "receive() function in Router allows locking of accidentally sent user’s BNB",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/126"
+}
