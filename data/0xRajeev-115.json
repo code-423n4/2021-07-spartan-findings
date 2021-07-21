@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Decrease allowance attempt will fail silently if current allowance is type(uint256).max",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/115"
+}
