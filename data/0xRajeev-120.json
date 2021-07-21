@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Attacker can trigger pool sync leading to user fund loss",
+  "issueId": 120,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/120"
+}
