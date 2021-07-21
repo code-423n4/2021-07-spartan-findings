@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "7811",
+  "address": "0xDefb6d82bCC8c354491952eBC17904654812A89E",
+  "risk": "3",
+  "title": "Return value not checked(bool) in Dao.sol",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/112"
+}
