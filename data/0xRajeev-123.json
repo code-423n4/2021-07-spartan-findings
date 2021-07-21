@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Misplaced logic leads to loss of member bondedLP funds",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/123"
+}
