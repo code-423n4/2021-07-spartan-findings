@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Missing slippage checks",
+  "issueId": 171,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/171"
+}
