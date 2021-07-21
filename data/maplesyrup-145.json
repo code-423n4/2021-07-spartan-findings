@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "maplesyrup",
+  "address": "0x8b8ce5B07E0a94Fe1B446035EE5D651F90aa7a36",
+  "risk": "G",
+  "title": "Function purgeDeployer() should be declared external in BondVault.sol",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/145"
+}
