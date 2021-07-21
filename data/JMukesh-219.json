@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "G",
+  "title": "state variable that can be declared as constant",
+  "issueId": 219,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/219"
+}
