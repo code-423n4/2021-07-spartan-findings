@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Deflationary assets are not handled uniformly across the protocol",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/101"
+}
