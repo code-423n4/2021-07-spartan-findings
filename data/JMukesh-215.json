@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "0",
+  "title": "Lack of emission of event when changing  dao fees",
+  "issueId": 215,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/215"
+}
