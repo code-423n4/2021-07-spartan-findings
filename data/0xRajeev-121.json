@@ -1,0 +1,9 @@
+{
+  "contest": "Spartan Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Broken access control leads to protocol functionality freeze",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2021-07-spartan-findings/issues/121"
+}
